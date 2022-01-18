@@ -10,3 +10,6 @@ C:\Users\user\source\repos\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frota
 C:\Users\user\source\repos\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.dll
 C:\Users\user\source\repos\Localiza.Frotas.Infra\obj\Debug\net6.0\ref\Localiza.Frotas.Infra.dll
 C:\Users\user\source\repos\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.pdb
+C:\Users\user\source\repos\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Domain.dll
+C:\Users\user\source\repos\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Domain.pdb
+C:\Users\user\source\repos\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.csproj.CopyComplete

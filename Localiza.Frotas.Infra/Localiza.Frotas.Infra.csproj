@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Localiza.Frotas.Domain\Localiza.Frotas.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

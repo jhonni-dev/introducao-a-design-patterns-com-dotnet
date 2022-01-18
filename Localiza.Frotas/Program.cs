@@ -1,4 +1,6 @@
 using FluentAssertions.Common;
+using Localiza.Frotas.Domain;
+using Localiza.Frotas.Infra.Repository;
 using Localiza.Frotas.Infra.Singleton;
 using Microsoft.OpenApi.Models;
 
@@ -20,7 +22,7 @@ builder.Services.AddSwaggerGen(c =>
     c.IncludeXmlComments(apiPath);
 });
 builder.Services.AddSingleton<SingletonContainer>();
-
+builder.Services.AddSingleton<IVeiculoRepository, InMemoryRepository>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
